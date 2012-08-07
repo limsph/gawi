@@ -58,7 +58,7 @@ $(function(){
 <div id="result"></div>
 <div id="stat"></div>
 <form method="post">
-선택하세요:
+잘 선택하세요:
 <button name="choice" value="0">가위</button>
 <button name="choice" value="1">바위</button>
 <button name="choice" value="2">보</button>
